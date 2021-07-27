@@ -10,7 +10,7 @@ This is sajjad Alizadeh I'm a Fullstack Developer In both web and Mobile Applica
 
 
 ## Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23ffffff.svg?style=for-the-badge&logo=go&logoColor=#00ADD8)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F1F523.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
